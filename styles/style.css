@@ -13,20 +13,20 @@ div#name {
   font-size: 40px;
   padding: 65px;
   border: 1px solid #2E2E2E;
-  height: 30px;
+  height: 25px;
   width: 895px;
   background-color: #2E2E2E;
 }
 
 body {
-  background-color: ;
+  background-color: #0f1235;
   color : black;
   font-size: 10px;
 }
 
 
 footer {
-  background-color: #000000;
+  background-color: #00763d;
   color : white;
   font-size: 40px;
 }
@@ -35,3 +35,31 @@ footer {
 .formulaire               {display:inline-block;}
 .formulaire .champ       {width:120px; height:20px;}
 .formulaire .bouton       { background-image: url(images/searchbar_button.png);background-repeat: no-repeat;width: 30px;height: 30px;padding: 0; }
+
+#menu ul {
+ margin:0;
+ padding:0;
+ list-style-type:none;
+ text-align:center;
+ }
+#menu li {
+ float:left;
+ margin:auto;
+ padding:0;
+ background-color:#cbccdb;
+ }
+#menu li a {
+ display:block;
+ width:320px;
+ color:white;
+ text-decoration:none;
+ padding:5px;
+ font-size: 25px;
+ }
+#menu li a:hover {
+ color:#FFD700;
+ }
+
+ #menu ul li ul {
+ display:none;
+ }

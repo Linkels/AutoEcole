@@ -1,0 +1,37 @@
+header {
+  background-color: white;
+  text-align: left;
+}
+
+.flotte {
+float:left;
+}
+
+div#name {
+  text-align: center;
+  color : white;
+  font-size: 40px;
+  padding: 65px;
+  border: 1px solid #2E2E2E;
+  height: 30px;
+  width: 895px;
+  background-color: #2E2E2E;
+}
+
+body {
+  background-color: ;
+  color : black;
+  font-size: 10px;
+}
+
+
+footer {
+  background-color: #000000;
+  color : white;
+  font-size: 40px;
+}
+
+#searchbar { width: 100%; text-align: right; }
+.formulaire               {display:inline-block;}
+.formulaire .champ       {width:120px; height:20px;}
+.formulaire .bouton       { background-image: url(images/searchbar_button.png);background-repeat: no-repeat;width: 30px;height: 30px;padding: 0; }

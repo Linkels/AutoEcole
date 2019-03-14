@@ -60,6 +60,18 @@ footer {
  color:#FFD700;
  }
 
- #menu ul li ul {
+#menu ul li ul {
  display:none;
+ }
+
+ #menu ul li:hover ul {
+ display:block;
+ }
+
+#menu li:hover ul li {
+ float:none;
+ }
+
+ #menu li ul {
+ position:absolute;
  }

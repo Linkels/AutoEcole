@@ -26,9 +26,10 @@ body {
 
 
 footer {
+  text-align: center;
   background-color: #00763d;
   color : white;
-  font-size: 40px;
+  font-size: 10px;
 }
 
 #searchbar { width: 100%; text-align: right; }
@@ -50,7 +51,7 @@ footer {
  }
 #menu li a {
  display:block;
- width:320px;
+ width:327px;
  color:white;
  text-decoration:none;
  padding:5px;

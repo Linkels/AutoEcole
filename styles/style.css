@@ -16,6 +16,7 @@ div#name {
   height: 25px;
   width: 895px;
   background-color: #2E2E2E;
+  text-decoration: none;
 }
 
 body {
@@ -23,7 +24,6 @@ body {
   color : black;
   font-size: 10px;
 }
-
 
 footer {
   text-align: center;
@@ -51,15 +51,13 @@ footer {
  }
 #menu li a {
  display:block;
- width:327px;
+ width:323px;
  color:white;
  text-decoration:none;
  padding:5px;
  font-size: 25px;
  }
-#menu li a:hover {
- color:#FFD700;
- }
+
 
 #menu ul li ul {
  display:none;
@@ -76,3 +74,8 @@ footer {
  #menu li ul {
  position:absolute;
  }
+
+ .click:hover {
+         color: #0f1235;
+        border: 1px solid #0f1235;
+       }

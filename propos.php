@@ -16,7 +16,9 @@
 <body>
 
   <a href="who.php">
-  <img src="image/info.jpg" width=150 /></a>
+  <img src="image/info.jpg" width=500 /></a>
+  <a href="contacter.php">
+  <img src="image/carte.jpg" width=500 /></a>
 
 </body>
 

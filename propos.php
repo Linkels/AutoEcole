@@ -14,16 +14,16 @@
 <?php include "header.php";?>
 
 <body>
-
+who
+<center>
   <a href="who.php">
-  <img src="image/info.jpg" width=500 /></a>
+  <img src="image/info.jpg" width=300 /></a>
   <a href="contacter.php">
-  <img src="image/carte.jpg" width=500 /></a>
-
+  <img src="image/carte.jpg" width=300 /></a>
+</center>
 </body>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 <?php include "footer.php";?>
 

@@ -15,7 +15,7 @@
 
 <body>
 
-  <a href="index.php">
+  <a href="who.php">
   <img src="image/info.jpg" width=150 /></a>
 
 </body>

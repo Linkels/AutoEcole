@@ -14,6 +14,7 @@
 <?php include "header.php";?>
 
 <body>
+who
 <center>
   <a href="who.php">
   <img src="image/info.jpg" width=300 /></a>

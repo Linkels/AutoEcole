@@ -13,7 +13,12 @@
 
 <?php include "header.php";?>
 
-<body></body>
+<body>
+
+  <a href="index.php">
+  <img src="image/info.jpg" width=150 /></a>
+
+</body>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

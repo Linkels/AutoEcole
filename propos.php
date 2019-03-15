@@ -13,7 +13,14 @@
 
 <?php include "header.php";?>
 
-<body></body>
+<body>
+
+  <a href="who.php">
+  <img src="image/info.jpg" width=500 /></a>
+  <a href="contacter.php">
+  <img src="image/carte.jpg" width=500 /></a>
+
+</body>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

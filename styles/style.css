@@ -65,7 +65,7 @@ footer {
  }
 #menu li a {
  display:block;
- width:323px;
+ width:330px;
  color:white;
  text-decoration:none;
  padding:5px;
@@ -97,11 +97,24 @@ footer {
 
 /*   page Conditions générales   */
 
-.tx-white {
-  color: white;
-
-}
 
 .pd20 {
   padding: 20px 0 10px 20px;
+}
+
+
+/*   page Mentions légales   */
+
+.fs10 {
+  font-size: 10px;
+}
+
+
+/*  page Offres d'emploi   */
+
+#bloc-gauche, #bloc-droit {
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+  background-color: #cbccdb;
 }

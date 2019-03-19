@@ -12,19 +12,30 @@
           </head>
 
 <?php include "header.php";?>
-
+<br><br><br><br><br><br><br><br><br><br><br>
 <body>
-who
+
 <center>
+
   <a href="who.php">
   <img src="image/info.jpg" width=300 /></a>
   <a href="contacter.php">
-  <img src="image/carte.jpg" width=300 /></a>
-</center>
+  <img src="image/carte.jpg" width=300 /></a><br>
+  </center>
+  <center>
+    <br>
+    Qui sommes nous ?
+
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    Comment nous contacter
+      </center>
+
 </body>
 
 
 
 <?php include "footer.php";?>
 
-</html> 
+</html>

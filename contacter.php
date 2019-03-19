@@ -13,11 +13,14 @@
 
 <?php include "header.php";?>
 
-<body></body>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<body>
+
+</body>
+
 
 <?php include "footer.php";?>
 
-</html> 
+</html>

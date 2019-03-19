@@ -13,6 +13,11 @@ header, body, footer {
 header {
   background-color: white;
   text-align: left;
+  height: 200px;
+  width: 100%;
+  top: 0;
+  position: fixed;
+
 }
 
 .flotte {
@@ -36,14 +41,20 @@ body {
   background-color: #0f1235;
   color : white;
   font-size: 20px;
-  min-height: 1000px;
+  min-height: 100px;
+  position: relative;
 }
 
 footer {
   text-align: center;
+  position: fixed;
+  bottom: 0;
   background-color: #00763d;
   color : white;
   font-size: 10px;
+  height: 60px;
+  width: 100%;
+
 }
 
 #searchbar { width: 100%; text-align: right; }
@@ -118,4 +129,3 @@ footer {
   height: 350px;
   background-color: #cbccdb;
 }
- 

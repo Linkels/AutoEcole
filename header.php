@@ -3,12 +3,15 @@
     <a href="index.php">
     <img src="image/logo-280px-.jpg" width=150 /></a>
       <center> <div id="name">AUTO-ECOLE PILOT'IN</div> </center>
-        <div id="searchbar">
-          <form action="" class="formulaire">
-            <input class="champ" type="text" value="" required placeholder="Recherche" />
-              <input class="bouton" type="button" value=" " />
-                 </form>
-                   </div
+      <form name="x" action="profil.php" method="post">
+    <div align="right">  <input type="submit" value="Se connecter ou s'inscrire"> </div>
+     </form>
+    <div id="searchbar">
+      <form action="" class="formulaire">
+        <input class="champ" type="text" value="" required placeholder="Recherche" />
+          <input class="bouton" type="button" value=" " />
+             </form>
+           </div>
                      </p>
                        <div id="menu">
                          <ul>
@@ -28,4 +31,4 @@
                                          </li>
                                           </ul>
                                            </div>
-</header> 
+</header>

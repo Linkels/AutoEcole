@@ -17,18 +17,19 @@
 
 <body>
 
-    <div>
-        <h5>Permis B</h5>
+  <div id="bloc-gauche"> <font color="black">
+    <br>
+<center>          <h5>Permis B</h5>
         <p>et</p>
-        <h5>Conduite<br>Accompagnée</h5>
-    </div>
-     <br>
-    <div>
-        <h5>Permis A</h5>
-        <p>
-            <img src="image/moto2.png" alt="image de moto" />
-        </p>
+        <h5>Conduite<br>Accompagnée</h5> </font>
 
+
+  </div>
+
+  <div id="bloc-droit"> <font color="black">
+    <br>
+    <center>  <h5>Permis A</h5> </font>
+        <img src="image/moto2.png" alt="image de moto"/> </center>
 
     </div>
 

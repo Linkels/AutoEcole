@@ -14,48 +14,33 @@
 
 <?php include "header.php";?>
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <body>
 
-  <div class="FexG6"><center><h1 class="clr-6">Les horaire pour s'entraîner<br> au code au l'auto-école:</h1></center></div>
-  <div class="FinG3"><center><p class="clr-3"><FONT face="Times New Roman"><FONT size="17">lundi a vendredi de <br>8H au  17H</FONT></FONT></p></center></div>
-  <div class="FexD5"><center><h1 class="clr-6">Les horaire possibles pour les<br> heures de conduite:</h1></center></div>
-  <div class="FinD4"><center><p class="clr-3"><FONT face="Times New Roman"><FONT size="17">lundi a vendredi de <br>13H au 17H</FONT></FONT></center></p></div></body>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <div id="bloc-gauche"> <font color="black">
+    <br>
+<center>  Les horaires pour s'entrainer au<br>
+  code à l'auto ecole:<br><br> </font>
+    <img src="image/agenda.jpg" width=300 /> </center>
 
 
-<script language="JavaScript">
+  </div>
 
+  <div id="bloc-droit"> <font color="black">
+    <br>
+    <center>  Les horaires possible pour les<br>
+      heures de conduite:<br><br> </font>
+        <img src="image/agenda.jpg" width=300 /> </center>
+  </p>
 
+  </div>
 
-  var position=0;
-  var msg="AUTO-ECOLE PILOT'IN";
-  var msg="     "+msg;
-  var longue=msg.length;
-  var fois=(70/msg.length)+1;
-  for(i=0;i<=fois;i++) msg+=msg;
-  function textdefil() {
-  document.form1.deftext.value=msg.substring(position,position+70);
-  position++;
-  if(position == longue) position=0;
-  setTimeout("textdefil()",100);
-  }
-  window.onload = textdefil;
-
-</script>
-
-
+  </div>
 
 </body>
 
-
-<form name="form1">
-  <div align="center">
-  <input type="text" name="deftext" size=70>
-  </div>
-  </form>
+<br><br><br>
 
 <?php include "footer.php";?>
 

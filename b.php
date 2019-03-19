@@ -12,47 +12,48 @@
           </head>
 
           <?php include "header.php";?>
-              
-<br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br>><br>
 
 <body>
-    
-    <div>
-    
-    <h5>Permis B : </h5>
+
+  <div id="bloc-gauche"> <font color="black">
+    <br>
+<center>    <h5>Permis B : </h5>
     <ul>
         <li>Forfait code + 20h de conduite : 2000€</li>
         <li>Par heure en + de conduite : 60€</li>
     </ul>
-        
-        <h5>Conduite accompagnée : </h5>
-        <ul>
-            <li>Forfait code + 20h conduite : 1800€</li>
-            <li>Par heure en + de conduite : 50€</li>
-            
-        </ul>
-        
-        </div>
+      </ul>
+      <h5>Conduite accompagnée : </h5>
+      <ul>
+          <li>Forfait code + 20h conduite : 1800€</li>
+          <li>Par heure en + de conduite : 50€</li>
+
+      </ul>
+    </font>
+
+
+  </div>
+
+  <div id="bloc-droit"> <font color="black">
     <br>
-    
-        <div>
-            
-            <h5>Conditions/ Remarques : </h5>
-            <p>Lorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat.  </p>
-    
-    
-    
-    
+    <center>      <h5>Conditions/ Remarques : </h5>
+      <p>Lorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat.  </p>
+
+
+ </font>
+
         </div>
-    
-    
-    
-    
-    
+
+
+
+
+
     </body>
     <?php include "footer.php";?>
 
-    
-          
+
+
 
 </html>

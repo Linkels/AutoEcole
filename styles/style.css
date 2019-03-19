@@ -13,7 +13,7 @@ header, body, footer {
 header {
   background-color: white;
   text-align: left;
-  height: 200px;
+  height: 224px;
   width: 100%;
   top: 0;
   position: fixed;
@@ -22,6 +22,10 @@ header {
 
 .flotte {
 float:left;
+}
+
+#flot {
+  float:left;
 }
 
 div#name {
@@ -140,4 +144,23 @@ div#bordure {
   height: 200px;
   width: 895px;
   text-decoration: none;
+}
+
+div#scrol {
+  width: 30em;
+  height: 20em;
+  border: solid;
+  background-color: white;
+  overflow: scroll;
+  color: #000000;
+}
+
+a
+{
+color: white;
+text-decoration: none;
+}
+
+a:visited{
+     color: white;
 }

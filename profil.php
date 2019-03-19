@@ -28,7 +28,7 @@
                     <input type="password" name="Sujet" id="subject" required placeholder="Mot de passe" />
 </center>
 <br><br><br><br><br>
-<center> Interésé-e ? Inscrit toi !<br> </center>
+<center> Interessé-e ? Inscrit toi !<br> </center>
      <center>
       <label for="name">Nom:</label>
         <input type="text" name="Subject" id="name" required placeholder="Nom" />

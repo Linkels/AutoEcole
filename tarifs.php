@@ -11,13 +11,35 @@
          <title>TARIFS</title>
           </head>
 
-<?php include "header.php";?>
+          <?php include "header.php";?>
 
-<body></body>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<body>
 
-<?php include "footer.php";?>
+    <div>
+        <h5>Permis B</h5>
+        <p>et</p>
+        <h5>Conduite<br>Accompagnée</h5>
+    </div>
+     <br>
+    <div>
+        <h5>Permis A</h5>
+        <p>
+            <img src="image/moto2.png" alt="image de moto" />
+        </p>
 
-</html> 
+
+    </div>
+
+
+
+
+    </body>
+
+
+
+
+    <?php include "footer.php";?>
+
+</html>

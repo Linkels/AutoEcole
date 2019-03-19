@@ -17,7 +17,12 @@
 
 
 <body>
-
+  <br><br><br>
+  <center>
+<div id="bordure">ADRESSE – CODE POSTAL VILLE <br>
+Tél : 01 00 00 00 00 - Portable : 06 00 00 00 00 <br>
+Email : auto@ecole.com<br></div>
+</center>
 </body>
 
 

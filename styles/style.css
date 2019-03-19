@@ -76,7 +76,7 @@ footer {
  }
 #menu li a {
  display:block;
- width:330px;
+ width:337px;
  color:white;
  text-decoration:none;
  padding:5px;
@@ -128,4 +128,16 @@ footer {
   width: 350px;
   height: 350px;
   background-color: #cbccdb;
+}
+
+div#bordure {
+  text-align: center;
+  color : white;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 65px;
+  border: 10px solid white;
+  height: 200px;
+  width: 895px;
+  text-decoration: none;
 }

@@ -17,22 +17,25 @@
 
 <body>
 
-  <div id="bloc-gauche"> <font color="black">
-    <br>
-<center>          <h5>Permis B</h5>
-        <p>et</p>
-        <h5>Conduite<br>Accompagnée</h5> </font>
+  <div class="container">
 
+      <div id="bloc-gauche">
+        <center>
+        <h2 class="pd20">Permis B</h2>
+        <p class="pd20">et
 
-  </div>
+        <h2 class="pd20">Conduite accompagnée</h2>
+      </center>
+        </div>
 
-  <div id="bloc-droit"> <font color="black">
-    <br>
-    <center>  <h5>Permis A</h5> </font>
-        <img src="image/moto2.png" alt="image de moto"/> </center>
-
+    <div id="bloc-droit">
+        <center>
+        <h2 class="pd20">Permis A</h2>
+        <img class="moto" src="image/moto2.png" alt="image de moto"/>
+      </center>
     </div>
 
+  </div>
 
 
 

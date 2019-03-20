@@ -18,30 +18,33 @@
 
 <body>
 
-  <div id="bloc-gauche"> <font color="black">
-    <br>
-<center>              <h5>Permis A:</h5>
-      <ul>
-          <li>Forfait code + 20h conduite: 4000€</li>
-          <li>Par heure en + conduite:      100€</li>
-      </ul> </font>
+  <div class="container">
 
-
-  </div>
-
-  <div id="bloc-droit"> <font color="black">
-    <br>
-    <center>    <h5>Conditions/ Remarques:</h5>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea  commodo consequat. </p> </font>
-  
+      <div id="bloc-gauche">
+        <h2 class="pd20">Permis A:</h2>
+        <p class="pd20">
+          Forfait code + 20h conduite: 4000€
+      </p>
+      <p class="pd20">
+        Par heure en + conduite:      100€
+    </p>
 
     </div>
 
+    <div id="bloc-droit">
+        <h2 class="pd20">Conditions/ Remarques:</h2>
+        <p class="pd20 fs10">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+          fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
+      </p>
 
+    </div>
 
-
-
-
+  </div>
 
     </body>
 

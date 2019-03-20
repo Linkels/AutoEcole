@@ -17,7 +17,6 @@ header {
   width: 100%;
   top: 0;
   position: fixed;
-  z-index: 10;
 
 }
 
@@ -144,30 +143,12 @@ footer {
     margin: 10px;
     position: absolute;
     left: 50px;
-
 }
 
 #bloc-droit {
    margin: 10px auto;
    float: right;
  }
-
- /*   fin offres d'emploi   */
-
- /*  page permis B   */
-
- .pd10 {
-   padding-left: 10px;
- }
-
-
- /*   page tarifs  */
-
- .moto {
-   width: 200px;
-   height: 200px;
- }
-
 
 div#bordure {
   text-align: center;

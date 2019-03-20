@@ -12,11 +12,11 @@
           </head>
 
 <?php include "header.php";?>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <body>
 
 
-    <<div class="container">
+    <div class="container">
 
         <div id="bloc-gauche">
           <h2 class="pd20">Offres d'emploi</h2>

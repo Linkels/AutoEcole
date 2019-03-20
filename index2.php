@@ -16,7 +16,7 @@
   <body>
 <p class="flotte">
 &nbsp;&nbsp;&nbsp; <img src="image/auto.jpg" width=700 />
-&nbsp;&nbsp;  <div id="scrol"> <font color="red" size="10">
+&nbsp;&nbsp;  <div style="overflow:scroll; border:#000000 1px solid;width: 500px; height: 500px;background-color:white;color:red;font-size:20px"> <font color="red" size="10">
 <center>  OFFRES PROMOTIONELLES <br> SUR TOUS LES TARIFS !!! <br> </font>
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
